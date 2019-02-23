@@ -13,5 +13,6 @@
   <body>
     <h1 style="color: red">尚硅谷红色标题</h1>
     <h2 style="color: blue">尚硅谷蓝色标题</h2>
+    <h2 style="color: blue">尚硅谷蓝色标题</h2>
   </body>
 </html>
